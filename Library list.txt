@@ -1,0 +1,3 @@
+For UI Automation: 
+
+download the libraries from selenium folder
